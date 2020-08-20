@@ -1,0 +1,12 @@
+!.gitignore
+
+# visual studio files
+/.vscode/
+
+# python
+__pycache__/
+*.cprofile
+*.pyc
+
+# temporary data files
+/cal/work/
